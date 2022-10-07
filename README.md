@@ -62,7 +62,7 @@ Brief bio here...
 
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=goblinsasquatch&show_icons=true&theme=gruvbox&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goblinsasquatch&layout=compact&count_private=true&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goblinsasquatch&layout=compact&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=goblinsasquatch&theme=gruvbox&border_radius=4.5&count_private=true)
 
