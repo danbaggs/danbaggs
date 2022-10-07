@@ -60,9 +60,13 @@ Brief bio here...
 
 ### 📊 Stats
 
-![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=goblinsasquatch&show_icons=true&theme=gruvbox)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-![GitHub Streak](https://streak-stats.demolab.com?user=goblinsasquatch&theme=gruvbox&border_radius=4.5)
+| ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=goblinsasquatch&show_icons=true&theme=gruvbox&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goblinsasquatch&layout=compact) |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+
+![GitHub Streak](https://streak-stats.demolab.com?user=goblinsasquatch&theme=gruvbox&border_radius=4.5&count_private=true)
 
 #
 
