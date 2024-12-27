@@ -1,5 +1,5 @@
 <!--
-**goblinsasquatch/goblinsasquatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**danbaggs/profile-readme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 I should really write some words here...
 
-<!-- I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[GoblinSasquatch][youtube]" to more than 400k subscribers. -->
+<!-- I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[danbaggs][youtube]" to more than 400k subscribers. -->
 
 <!-- <p align="left"> -->
-<!--   <a href="https://github.com/GoblinSasquatch?tab=followers"> -->
-<!--      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GoblinSasquatch?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> -->
-<!--   <a href="https://github.com/GoblinSasquatch?tab=repositories&sort=stargazers"> -->
-<!--      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GoblinSasquatch?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> -->
+<!--   <a href="https://github.com/danbaggs?tab=followers"> -->
+<!--      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/danbaggs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> -->
+<!--   <a href="https://github.com/danbaggs?tab=repositories&sort=stargazers"> -->
+<!--      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/danbaggs?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> -->
 <!-- </p> -->
 
 ---
@@ -56,11 +56,11 @@ I should really write some words here...
 
 ### 📊 Stats
 
-![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=goblinsasquatch&show_icons=true&theme=onedark&count_private=true)
+![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danbaggs&show_icons=true&theme=onedark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goblinsasquatch&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danbaggs&layout=compact&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GoblinSasquatch&theme=onedark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=danbaggs&theme=onedark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 #
 
