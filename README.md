@@ -56,13 +56,18 @@ I should really write some words here...
 
 ### 📊 Stats
 
-![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danbaggs&show_icons=true&theme=onedark&count_private=true)
+![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danbaggs&show_icons=true&theme=onedark&count_private=true&hide=stars)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danbaggs&layout=compact&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=danbaggs&theme=onedark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 #
+
+<!-- Snek -->   
+<p align="center">
+<a href="https://github.com/danbaggs?tab=repositories" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+</p>
 
 <details>
  <summary><h3>👨‍💻 Dan's Coding Journey</h3></summary>
