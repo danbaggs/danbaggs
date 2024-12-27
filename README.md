@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am a highly skilled Software Engineer with a proven track record of success transforming military operations through leadership of multi-skill engineering teams rapidly developing software and hardware solutions in high-pressure environments. I have 24 years of experience in demanding technical and leadership roles, including the last 4 years as a Senior Software Engineer in the UK’s premier military unit, employed in a highly pressured environment to develop novel software in direct support of sensitive UK Military Operations.
 
-Given the sensitive nature of my work, none of it appears on GitHub, but I personally architected and led development on multiple applications currently in live use by the regiment on operations, spanning multiple teams and locations, across the fields of IoT, UAS control & automation, data analysis & display, and Cloud AI applications.
+Given the sensitive nature of my work, none of it appears on GitHub, but I personally architected and led development on multiple applications currently in live use on operations, spanning multiple teams and locations, across the fields of IoT, UAS control & automation, data analysis & display, and Cloud AI applications.
 
 <!-- <p align="left"> -->
 <!--   <a href="https://github.com/danbaggs?tab=followers"> -->
