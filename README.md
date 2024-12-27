@@ -56,9 +56,9 @@ Given the sensitive nature of my work, none of it appears on GitHub, but I perso
 
 ### 📊 Stats
 
-![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danbaggs&show_icons=true&theme=onedark&count_private=true&hide=stars)
+![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danbaggs&show_icons=true&theme=onedark&hide=stars)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danbaggs&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danbaggs&layout=compact)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=danbaggs&theme=onedark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
