@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # ✨ Daniel Baggs BSc
 
-**`Senior Software and AI Developer, Electronics Systems Engineer`**
+#### Senior Software and AI Developer, Electronics Systems Engineer
 
 I am a highly skilled Software Engineer with a proven track record of success transforming military operations through leadership of multi-skill engineering teams rapidly developing software and hardware solutions in high-pressure environments. I have 24 years of experience in demanding technical and leadership roles, including the last 4 years as a Senior Software Engineer in the UK’s premier military unit, employed in a highly pressured environment to develop novel software in direct support of sensitive UK Military Operations.
 
