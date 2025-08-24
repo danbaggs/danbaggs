@@ -65,9 +65,20 @@ Given the sensitive nature of my work, none of it appears on GitHub, but I have 
 #
 
 <!-- Snek -->   
-<p>
+<!-- <p>
 <a href="https://github.com/danbaggs?tab=repositories" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
-</p>
+</p> -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 
 <!-- <details> -->
 <!--  <summary><h3>👨‍💻 Dan's Coding Journey</h3></summary> -->
